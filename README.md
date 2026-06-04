@@ -1,5 +1,7 @@
 # 儿童青少年肥胖食养助手 Agent
 
+[English version](README.en.md)
+
 > **粘贴即用 · 全量 System Prompt Agent**
 
 基于国家卫生健康委《儿童青少年肥胖食养指南（2024年版）》蒸馏而成的完整 AI Agent 系统提示词。
